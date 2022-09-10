@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://kasegao.github.io/fixed/</loc>
-    <lastmod>2022-09-10T08:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-09-10T08:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/fixed/works/</loc>
-    <lastmod>2022-09-10T08:48:46+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/fixed/profile/</loc>
-    <lastmod>2022-09-10T08:37:50+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/categories/</loc>
-  </url><url>
-    <loc>https://kasegao.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://kasegao.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2022-09-10T19:46:52+09:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://kasegao.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2022-09-10T20:07:17+09:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
