@@ -16,6 +16,15 @@ minify:
   disableXML: true
   minifyOutput: true
 
+defaultContentLanguage: ja
+languages:
+  ja:
+    languageName: "日本語"
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+
 params:
   #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Kasega0"
@@ -53,7 +62,6 @@ params:
 
   label:
     text: "🏠 Home"
-    # icon: Thinking_Face_Emoji_large.png
     iconHeight: 35
 
   # profile-mode
@@ -61,20 +69,18 @@ params:
     enabled: true # needs to be explicitly set
     title: "I'm Mitsuhiko"
     subtitle: "a.k.a. Kasega0, a researcher & engineer."
-    #imageUrl: "https://avatars.githubusercontent.com/u/59508678?v=4"
     imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: my image
-    # buttons:
-    #     - name: Posts
-    #       url: posts
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/Kasega0"
     - name: github
       url: "https://github.com/kasegao"
+    - name: email
+      url: "mailto:shimomura@hapis.k.u-tokyo.ac.jp"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -122,4 +128,3 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
-
