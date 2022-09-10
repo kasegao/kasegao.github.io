@@ -68,8 +68,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "I'm Mitsuhiko"
-    subtitle: "a.k.a. Kasega0, a researcher & engineer."
+    title: "Kasega0"
+    subtitle: "a researcher & engineer."
     imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
