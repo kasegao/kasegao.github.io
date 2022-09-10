@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kasegao.github.io/fixed/</loc>
-    <lastmod>2022-09-10T19:46:52+09:00</lastmod>
+    <lastmod>2022-09-10T20:53:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-09-10T19:46:52+09:00</lastmod>
+    <lastmod>2022-09-10T20:53:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,17 @@
                 />
   </url><url>
     <loc>https://kasegao.github.io/fixed/works/</loc>
-    <lastmod>2022-09-10T08:53:51+09:00</lastmod>
+    <lastmod>2022-09-10T20:53:16+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasegao.github.io/en/fixed/works/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://kasegao.github.io/fixed/works/"
+                />
   </url><url>
     <loc>https://kasegao.github.io/fixed/profile/</loc>
     <lastmod>2022-09-10T19:46:52+09:00</lastmod>
