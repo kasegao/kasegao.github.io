@@ -69,7 +69,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Kasega0"
-    subtitle: "a researcher & engineer."
+    subtitle: "a [researcher](https://orcid.org/0000-0002-7950-0248) & engineer."
     imageUrl: "profile.jpg"
     imageWidth: 200
     imageHeight: 200
@@ -82,6 +82,8 @@ params:
       url: "https://github.com/kasegao"
     - name: email
       url: "mailto:shimomura@hapis.k.u-tokyo.ac.jp"
+    - name: other
+      url: "https://orcid.org/0000-0002-7950-0248"
 
   cover:
     hidden: true # hide everywhere but not in structured data

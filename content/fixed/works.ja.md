@@ -4,6 +4,8 @@ date: 2022-09-10T08:48:46+09:00
 draft: false
 ---
 
+ORCID: [0000-0002-7950-0248](https://orcid.org/0000-0002-7950-0248)
+
 ## 論文誌
 
 1. [[Open Access] Abe Yuki, Someya Yu, **Shimomura Mitsuhiko**, Ohmori Task, Inoue Seki, Fujiwara Masahiro, Makino Yasutoshi and Shinoda Hiroyuki, "Remote Friction Reduction on Polystyrene Foam Surface by Focused Airborne Ultrasound." IEEE Transactions on Haptics 15.2 (2022): 363-371.](https://doi.org/10.1109/TOH.2022.3148004)
