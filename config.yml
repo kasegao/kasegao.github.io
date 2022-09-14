@@ -27,7 +27,8 @@ languages:
     weight: 2
 
 params:
-  #    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
+  googleAnalyticsID: G-6S54ZMMLWL
   title: "Kasega0"
   description: "Kasega0's profile."
   keywords: [Blog, Portfolio, PaperMod]
