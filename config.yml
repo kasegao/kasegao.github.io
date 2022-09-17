@@ -81,9 +81,11 @@ params:
       url: "https://twitter.com/Kasega0"
     - name: github
       url: "https://github.com/kasegao"
+    - name: zenn
+      url: "https://zenn.dev/kasega0"
     - name: email
       url: "mailto:shimomura@hapis.k.u-tokyo.ac.jp"
-    - name: other
+    - name: orcid
       url: "https://orcid.org/0000-0002-7950-0248"
 
   cover:
