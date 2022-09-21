@@ -7,6 +7,9 @@
     <image>
       <url>https://kasegao.github.io/profile.jpg</url>
       <link>https://kasegao.github.io/profile.jpg</link>
+      <title>Kasega0</title>
+			<width>64</width>
+			<height>64</height>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 10 Sep 2022 08:48:46 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -37,3 +40,4 @@ shimomura[at]hapis.k.u-tokyo.ac.jp
     
   </channel>
 </rss>
+

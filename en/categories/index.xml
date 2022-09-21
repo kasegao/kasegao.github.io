@@ -7,7 +7,11 @@
     <image>
       <url>https://kasegao.github.io/profile.jpg</url>
       <link>https://kasegao.github.io/profile.jpg</link>
+      <title>Kasega0</title>
+			<width>64</width>
+			<height>64</height>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://kasegao.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
+
