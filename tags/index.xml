@@ -11,7 +11,35 @@
 			<width>64</width>
 			<height>64</height>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kasegao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Sep 2022 11:29:33 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>chart</title>
+      <link>https://kasegao.github.io/tags/chart/</link>
+      <pubDate>Tue, 27 Sep 2022 11:29:33 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/tags/chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>https://kasegao.github.io/tags/excel/</link>
+      <pubDate>Tue, 27 Sep 2022 11:29:33 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://kasegao.github.io/tags/tips/</link>
+      <pubDate>Tue, 27 Sep 2022 11:29:33 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/tags/tips/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>excel on Kasega0</title>
+    <link>https://kasegao.github.io/tags/excel/</link>
+    <description>Recent content in excel on Kasega0</description>
+    <image>
+      <url>https://kasegao.github.io/profile.jpg</url>
+      <link>https://kasegao.github.io/profile.jpg</link>
+      <title>Kasega0</title>
+			<width>64</width>
+			<height>64</height>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Sep 2022 11:29:33 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Excel のグラフをいい感じにする tips</title>
+      <link>https://kasegao.github.io/posts/2022/09/excel_chart/</link>
+      <pubDate>Tue, 27 Sep 2022 11:29:33 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/09/excel_chart/</guid>
+      <description>Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの表を作るための tips をいくつか紹介します。
+準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。
+   Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。</description>
+    </item>
+    
+  </channel>
+</rss>
+
