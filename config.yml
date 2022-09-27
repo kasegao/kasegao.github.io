@@ -110,10 +110,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    # - identifier: posts
-    #   name: posts
-    #   url: posts
-    #   weight: 5
+    - identifier: posts
+      name: posts
+      url: posts
+      weight: 5
     - identifier: profile
       name: profile
       url: fixed/profile
