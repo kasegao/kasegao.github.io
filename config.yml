@@ -30,9 +30,9 @@ params:
   env: production
   googleAnalyticsID: G-6S54ZMMLWL
   title: "Kasega0"
-  description: "Kasega0's profile."
+  description: "kasegao's website"
   keywords: [Blog, Portfolio, PaperMod]
-  author: "Kasega0"
+  author: ["Kasega0", "kasegao"]
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
   DateFormat: "January 2, 2006"
