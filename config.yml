@@ -1,7 +1,7 @@
 baseURL: "https://kasegao.github.io/"
 canonifyurls: false
 publishDir: "public"
-title: "Kasega0"
+title: "Webgao"
 paginate: 10
 theme: "PaperMod"
 
@@ -22,16 +22,52 @@ languages:
   ja:
     languageName: "日本語"
     weight: 1
+    menu:
+      main:
+        - identifier: posts
+          name: 投稿
+          url: posts
+          weight: 5
+        - identifier: profile
+          name: プロフィール
+          url: fixed/profile
+          weight: 10
+        - identifier: works
+          name: 業績
+          url: fixed/works
+          weight: 15
+        - identifier: tags
+          name: タグ
+          url: tags/
+          weight: 20
   en:
     languageName: English
     weight: 2
+    menu:
+      main:
+        - identifier: posts
+          name: posts
+          url: posts
+          weight: 5
+        - identifier: profile
+          name: profile
+          url: fixed/profile
+          weight: 10
+        - identifier: works
+          name: works
+          url: fixed/works
+          weight: 15
+        - identifier: tags
+          name: tags
+          url: tags/
+          weight: 20
 
 params:
   env: production
   googleAnalyticsID: G-6S54ZMMLWL
-  title: "Kasega0"
+  title: "webgao"
   description: "kasegao's website"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Kasega0, kasegao, webgao, かせがお, ウェブがお]
   author: ["Kasega0", "kasegao"]
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
@@ -69,7 +105,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Kasega0"
+    title: "kasegao"
     subtitle: "a [researcher](https://orcid.org/0000-0002-7950-0248) & engineer."
     imageUrl: "profile.jpg"
     imageWidth: 200
@@ -108,29 +144,3 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: posts
-      name: posts
-      url: posts
-      weight: 5
-    - identifier: profile
-      name: profile
-      url: fixed/profile
-      weight: 10
-    - name: works
-      url: fixed/works
-      weight: 15
-    - identifier: tags
-      name: tags
-      url: tags/
-      weight: 20
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai

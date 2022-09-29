@@ -24,7 +24,7 @@ The University of Tokyo
 | Apr. 2019 - Mar. 2021 | B.E., Department of Mathematical Engineering and Information Physics, School of Engineering, The University of Tokyo, Japan                  |
 | Apr. 2017 - Mar. 2019 | Natural Science I, Collage of Arts and Science, The University of Tokyo, Japan                                                               |
 
-## TA/RA 等
+## Research / Teaching Assistant
 
 |                       |                                                                                                                                                                                                                   |
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
