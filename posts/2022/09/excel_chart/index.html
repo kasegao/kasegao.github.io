@@ -11,7 +11,7 @@
 <meta name=description content="Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの図を作るための tips をいくつか紹介します。
 準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。
    Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。">
-<meta name=author content="Kasega0, kasegao">
+<meta name=author content="kasegao">
 <link rel=canonical href=https://kasegao.github.io/posts/2022/09/excel_chart/>
 <link crossorigin=anonymous href=/assets/css/stylesheet.7373ca94ac06376db2794d85d9ac8ca0a258a5dc5ce49bc2656a9dfad0b638a7.css integrity="sha256-c3PKlKwGN22yeU2F2ayMoKJYpdxc5JvCZWqd+tC2OKc=" rel="preload stylesheet" as=style>
 <script defer crossorigin=anonymous src=/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG+9vmJ0cTS+ovo0FeA=" onload=hljs.initHighlightingOnLoad()></script>
@@ -33,7 +33,7 @@
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://kasegao.github.io/posts/2022/09/excel_chart/"><meta property="og:image" content="https://kasegao.github.io/profile.jpg"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2022-09-27T11:29:33+09:00">
-<meta property="article:modified_time" content="2022-09-27T17:09:38+09:00"><meta property="og:site_name" content="webgao">
+<meta property="article:modified_time" content="2022-10-11T11:09:05+09:00"><meta property="og:site_name" content="webgao">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://kasegao.github.io/profile.jpg">
 <meta name=twitter:title content="Excel のグラフをいい感じにする tips">
@@ -41,7 +41,7 @@
 準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。
    Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Posts","item":"https://kasegao.github.io/posts/"},{"@type":"ListItem","position":2,"name":"Excel のグラフをいい感じにする tips","item":"https://kasegao.github.io/posts/2022/09/excel_chart/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Excel のグラフをいい感じにする tips","name":"Excel のグラフをいい感じにする tips","description":"Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの図を作るための tips をいくつか紹介します。\n準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。\n   Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。","keywords":["excel","chart","tips"],"articleBody":"Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの図を作るための tips をいくつか紹介します。\n準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。\n   Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。\n※ AVERAGE(), STDEV() でそれぞれ計算できます。\n   mean A B  std A B     1 397 270  1 7 168   2 196 326  2 123 72   3 336 437  3 106 38   4 281 336  4 141 77    すると上記のような表が得られると思います。\n※いずれの値も整数部分で打ち切っています。\nまずは、この状態で愚直に平均値だけを折れ線グラフでプロットすると次のようになります。\n※見やすいようにマーカー等を調整しています。\n  以降、様々な tips を紹介しながら、この図を下図のような状態にまで持っていきます。\n  エラーバーを表示する Excel でできて Google Spreadsheets でできないことの最大のポイントはエラーバーだと思います。 Excel で図にエラーバーを追加するにはエラーバーを追加したい系列を選択した状態で\n 「グラフ要素の追加」＞「誤差範囲」＞「その他のオプション」\n から追加できます。\n  標準では固定値 10%という謎の誤差範囲が指定されているので、ここに先ほど計算した標準偏差を参照するように設定します。\n 「誤差範囲の書式設定」＞「誤差範囲のオプション」＞「誤差範囲」＞「ユーザー設定」を選択\n その後、「値の指定」から「正の誤差の値・負の誤差の値」の両方に、始めに計算した標準偏差の値が入ったセルを設定します。 すると標準偏差がエラーバーとして表示されます。 これを全ての系列に対して行います。\nここまでの結果です。分かりやすいようにエラーバーの見た目も少し弄っています。\n  エラーバーをずらす 上の図では二つのエラーバーが重なってしまっていて見づらいですね。 これを解決するためにマーカーの位置を少しだけ左右にずらします。\nまずは、現状の折れ線グラフを「グラフの種類の変更」から直線とマーカー付きの散布図に変更します。\n  色々と直したい気はしますが、まずは一旦エラーバーの重なりを無くすことにします。\n始めに、横軸方向にずらすために次のような表を作ります。実際には 0.98 月なんてものは存在しないわけですが、ずらすだけなので問題ないです。\n   mean A B  diff: A B     1 397 270  0.02 0.98 1.02   2 196 326   1.98 2.02   3 336 437   2.98 3.02   4 281 336   3.98 4.02    次に、グラフの横軸に使用されている値をオリジナルの 1, 2, 3, 4 月から上記の表の値に変更します。 一番簡単なのは、グラフで系列データを選択した状態で、下図のように参照されているセルの範囲（紫色）を変更する事だと思います。\n※図は diff が 0.05 になっていますが、大きかったので 0.02 に変更しました。\n    これを両方の系列に適用すると次のようになります。\n  無事、マーカー位置が微妙にずれてエラーバーが見やすくなりました。\n横軸から不要な範囲を消す さて、皆さんだいぶ前から横軸を 1-4 月で切り取りたくてうずうずしていると思います。 ここではその方法をご説明します。\nまずは横軸を選択した状態で、\n 「軸の書式設定」＞「軸のオプション」＞「境界値」\n で最小値を 1.0 、最大値を 4.0 にします。 ついでに 0.5 ヶ月刻みになるのも気持ち悪いので、主単位を 1.0 にします。\nさて、どうなったでしょうか。\n  横軸が 1-4 月になったのはいいですが、端のデータが消えてしまいました。 それぞれ横軸の値が 0.98 と 4.02 なので当然と言えば当然ですね。\nこれでは困るので「境界値」を最小値 0.9 、最大値 4.1 にしてみます。\n  いい感じですが、今度は横軸の目盛が 0.9 スタートになって微妙です。 そこで目盛を四捨五入することで、無理矢理表示上整数値に丸め込みます。\nそのために横軸を選択した状態で\n 「軸の書式設定」＞「文字のオプション」＞「表示形式」\n でカテゴリを「数値」に設定し、小数点以下の桁数を 0 に設定します。\n  完成です。 お疲れさまでした。\n終わりに 今回ご紹介した方法を適宜組み合わせることで、大抵の図はいい感じに整形できると思います。 皆さんもぜひ簡単なデータ分析には Excel を使用してみてください。\n※ステマではないです。\n","wordCount":"216","inLanguage":"ja","datePublished":"2022-09-27T11:29:33+09:00","dateModified":"2022-09-27T17:09:38+09:00","author":[{"@type":"Person","name":"Kasega0"},{"@type":"Person","name":"kasegao"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://kasegao.github.io/posts/2022/09/excel_chart/"},"publisher":{"@type":"Organization","name":"Webgao","logo":{"@type":"ImageObject","url":"https://kasegao.github.io/favicon/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"Excel のグラフをいい感じにする tips","name":"Excel のグラフをいい感じにする tips","description":"Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの図を作るための tips をいくつか紹介します。\n準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。\n   Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。","keywords":["excel","chart","tips"],"articleBody":"Excel でグラフ作ってますか？ Excel と聞くと拒否反応が出る方も少なくないとは思いますが、実は簡単なことをするだけなら十分強力なツールだったりします。 細かいことをしたいときや繰り返し処理をしたいときは適当なプログラムを書いた方が良いですが、そうでないなんちゃってデータ分析＆可視化なら Excel も意外と使えます。 今日はそんな Excel でいい感じの図を作るための tips をいくつか紹介します。\n準備 今回は二系列の大型スーパー A, B の各店舗(A1, A2, A3)と(B1, B2, B3)の 1-4 月の売上データをもとに、系列ごとの各月の売り上げを図示していきたいと思います。\n   Month A1 A2 A3 B1 B2 B3     1 390 407 393 475 273 63   2 149 75 364 250 306 423   3 239 287 483 465 463 384   4 384 81 378 432 244 332    これをもとに、系列ごとの平均と分散をそれぞれ計算します。\n※ AVERAGE(), STDEV() でそれぞれ計算できます。\n   mean A B  std A B     1 397 270  1 7 168   2 196 326  2 123 72   3 336 437  3 106 38   4 281 336  4 141 77    すると上記のような表が得られると思います。\n※いずれの値も整数部分で打ち切っています。\nまずは、この状態で愚直に平均値だけを折れ線グラフでプロットすると次のようになります。\n※見やすいようにマーカー等を調整しています。\n  以降、様々な tips を紹介しながら、この図を下図のような状態にまで持っていきます。\n  エラーバーを表示する Excel でできて Google Spreadsheets でできないことの最大のポイントはエラーバーだと思います。 Excel で図にエラーバーを追加するにはエラーバーを追加したい系列を選択した状態で\n 「グラフ要素の追加」＞「誤差範囲」＞「その他のオプション」\n から追加できます。\n  標準では固定値 10%という謎の誤差範囲が指定されているので、ここに先ほど計算した標準偏差を参照するように設定します。\n 「誤差範囲の書式設定」＞「誤差範囲のオプション」＞「誤差範囲」＞「ユーザー設定」を選択\n その後、「値の指定」から「正の誤差の値・負の誤差の値」の両方に、始めに計算した標準偏差の値が入ったセルを設定します。 すると標準偏差がエラーバーとして表示されます。 これを全ての系列に対して行います。\nここまでの結果です。分かりやすいようにエラーバーの見た目も少し弄っています。\n  エラーバーをずらす 上の図では二つのエラーバーが重なってしまっていて見づらいですね。 これを解決するためにマーカーの位置を少しだけ左右にずらします。\nまずは、現状の折れ線グラフを「グラフの種類の変更」から直線とマーカー付きの散布図に変更します。\n  色々と直したい気はしますが、まずは一旦エラーバーの重なりを無くすことにします。\n始めに、横軸方向にずらすために次のような表を作ります。実際には 0.98 月なんてものは存在しないわけですが、ずらすだけなので問題ないです。\n   mean A B  diff: A B     1 397 270  0.02 0.98 1.02   2 196 326   1.98 2.02   3 336 437   2.98 3.02   4 281 336   3.98 4.02    次に、グラフの横軸に使用されている値をオリジナルの 1, 2, 3, 4 月から上記の表の値に変更します。 一番簡単なのは、グラフで系列データを選択した状態で、下図のように参照されているセルの範囲（紫色）を変更する事だと思います。\n※図は diff が 0.05 になっていますが、大きかったので 0.02 に変更しました。\n    これを両方の系列に適用すると次のようになります。\n  無事、マーカー位置が微妙にずれてエラーバーが見やすくなりました。\n横軸から不要な範囲を消す さて、皆さんだいぶ前から横軸を 1-4 月で切り取りたくてうずうずしていると思います。 ここではその方法をご説明します。\nまずは横軸を選択した状態で、\n 「軸の書式設定」＞「軸のオプション」＞「境界値」\n で最小値を 1.0 、最大値を 4.0 にします。 ついでに 0.5 ヶ月刻みになるのも気持ち悪いので、主単位を 1.0 にします。\nさて、どうなったでしょうか。\n  横軸が 1-4 月になったのはいいですが、端のデータが消えてしまいました。 それぞれ横軸の値が 0.98 と 4.02 なので当然と言えば当然ですね。\nこれでは困るので「境界値」を最小値 0.9 、最大値 4.1 にしてみます。\n  いい感じですが、今度は横軸の目盛が 0.9 スタートになって微妙です。 そこで目盛を四捨五入することで、無理矢理表示上整数値に丸め込みます。\nそのために横軸を選択した状態で\n 「軸の書式設定」＞「文字のオプション」＞「表示形式」\n でカテゴリを「数値」に設定し、小数点以下の桁数を 0 に設定します。\n  完成です。 お疲れさまでした。\n終わりに 今回ご紹介した方法を適宜組み合わせることで、大抵の図はいい感じに整形できると思います。 皆さんもぜひ簡単なデータ分析には Excel を使用してみてください。\n※ステマではないです。\n","wordCount":"216","inLanguage":"ja","datePublished":"2022-09-27T11:29:33+09:00","dateModified":"2022-10-11T11:09:05+09:00","author":[{"@type":"Person","name":"kasegao"}],"mainEntityOfPage":{"@type":"WebPage","@id":"https://kasegao.github.io/posts/2022/09/excel_chart/"},"publisher":{"@type":"Organization","name":"Webgao","logo":{"@type":"ImageObject","url":"https://kasegao.github.io/favicon/favicon.ico"}}}</script>
 </head>
 <body id=top>
 <script>localStorage.getItem("pref-theme")==="dark"?document.body.classList.add('dark'):localStorage.getItem("pref-theme")==="light"?document.body.classList.remove('dark'):window.matchMedia('(prefers-color-scheme: dark)').matches&&document.body.classList.add('dark')</script>
@@ -76,6 +76,11 @@
 </a>
 </li>
 <li>
+<a href=https://kasegao.github.io/categories/ title=カテゴリ>
+<span>カテゴリ</span>
+</a>
+</li>
+<li>
 <a href=https://kasegao.github.io/tags/ title=タグ>
 <span>タグ</span>
 </a>
@@ -90,7 +95,7 @@
 <h1 class=post-title>
 Excel のグラフをいい感じにする tips
 </h1>
-<div class=post-meta><span title="2022-09-27 11:29:33 +0900 +0900">9月 27, 2022</span>&nbsp;·&nbsp;2 分&nbsp;·&nbsp;Kasega0, kasegao&nbsp;|&nbsp;<a href=https://github.com/kasegao/kasegao.github.io/blob/main/content/posts/2022/09/excel_chart/index.md rel="noopener noreferrer" target=_blank>Suggest Changes</a>
+<div class=post-meta><span title="2022-09-27 11:29:33 +0900 +0900">9月 27, 2022</span>&nbsp;·&nbsp;2 分&nbsp;·&nbsp;kasegao&nbsp;|&nbsp;<a href=https://github.com/kasegao/kasegao.github.io/blob/main/content/posts/2022/09/excel_chart/index.md rel="noopener noreferrer" target=_blank>Suggest Changes</a>
 </div>
 </header>
 <div class=post-content><h1 id=excel-でグラフ作ってますか>Excel でグラフ作ってますか？<a hidden class=anchor aria-hidden=true href=#excel-でグラフ作ってますか>#</a></h1>
@@ -352,6 +357,18 @@ Excel で図にエラーバーを追加するにはエラーバーを追加し�
 <li><a href=https://kasegao.github.io/tags/chart/>chart</a></li>
 <li><a href=https://kasegao.github.io/tags/tips/>tips</a></li>
 </ul>
+<nav class=paginav>
+<a class=prev href=https://kasegao.github.io/posts/2022/09/dc1/>
+<span class=title>« 前のページ</span>
+<br>
+<span>学振 DC1 内定しました</span>
+</a>
+<a class=next href=https://kasegao.github.io/posts/2022/09/conf_vr/>
+<span class=title>次のページ »</span>
+<br>
+<span>VR学会</span>
+</a>
+</nav>
 <div class=share-buttons>
 <a target=_blank rel="noopener noreferrer" aria-label="share Excel のグラフをいい感じにする tips on twitter" href="https://twitter.com/intent/tweet/?text=Excel%20%e3%81%ae%e3%82%b0%e3%83%a9%e3%83%95%e3%82%92%e3%81%84%e3%81%84%e6%84%9f%e3%81%98%e3%81%ab%e3%81%99%e3%82%8b%20tips&url=https%3a%2f%2fkasegao.github.io%2fposts%2f2022%2f09%2fexcel_chart%2f&hashtags=excel%2cchart%2ctips"><svg viewBox="0 0 512 512" height="30" width="30" fill="currentcolor"><path d="M449.446.0C483.971.0 512 28.03 512 62.554v386.892C512 483.97 483.97 512 449.446 512H62.554c-34.524.0-62.554-28.03-62.554-62.554V62.554c0-34.524 28.029-62.554 62.554-62.554h386.892zM195.519 424.544c135.939.0 210.268-112.643 210.268-210.268.0-3.218.0-6.437-.153-9.502 14.406-10.421 26.973-23.448 36.935-38.314-13.18 5.824-27.433 9.809-42.452 11.648 15.326-9.196 26.973-23.602 32.49-40.92-14.252 8.429-30.038 14.56-46.896 17.931-13.487-14.406-32.644-23.295-53.946-23.295-40.767.0-73.87 33.104-73.87 73.87.0 5.824.613 11.494 1.992 16.858-61.456-3.065-115.862-32.49-152.337-77.241-6.284 10.881-9.962 23.601-9.962 37.088.0 25.594 13.027 48.276 32.95 61.456-12.107-.307-23.448-3.678-33.41-9.196v.92c0 35.862 25.441 65.594 59.311 72.49-6.13 1.686-12.72 2.606-19.464 2.606-4.751.0-9.348-.46-13.946-1.38 9.349 29.426 36.628 50.728 68.965 51.341-25.287 19.771-57.164 31.571-91.8 31.571-5.977.0-11.801-.306-17.625-1.073 32.337 21.15 71.264 33.41 112.95 33.41z"/></svg>
 </a>

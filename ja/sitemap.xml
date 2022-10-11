@@ -2,20 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasegao.github.io/tags/chart/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
+    <loc>https://kasegao.github.io/categories/blog/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
-    <loc>https://kasegao.github.io/tags/excel/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
+    <loc>https://kasegao.github.io/categories/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasegao.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://kasegao.github.io/categories/"
+                />
   </url><url>
-    <loc>https://kasegao.github.io/posts/2022/09/excel_chart/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
+    <loc>https://kasegao.github.io/tags/db%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/10/ipa_db/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/ipa/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/posts/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/tags/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,11 +43,8 @@
                 href="https://kasegao.github.io/tags/"
                 />
   </url><url>
-    <loc>https://kasegao.github.io/tags/tips/</loc>
-    <lastmod>2022-09-27T17:09:38+09:00</lastmod>
-  </url><url>
     <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-09-29T16:43:11+09:00</lastmod>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,6 +55,39 @@
                 hreflang="ja"
                 href="https://kasegao.github.io/"
                 />
+  </url><url>
+    <loc>https://kasegao.github.io/categories/academia/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/dc1/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/jsps/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/09/dc1/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/chart/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/excel/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/09/excel_chart/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/categories/tech/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/tips/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/vr2022/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/09/conf_vr/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/fixed/</loc>
     <lastmod>2022-09-29T16:43:11+09:00</lastmod>
@@ -80,18 +126,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://kasegao.github.io/fixed/profile/"
-                />
-  </url><url>
-    <loc>https://kasegao.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kasegao.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kasegao.github.io/categories/"
                 />
   </url>
 </urlset>

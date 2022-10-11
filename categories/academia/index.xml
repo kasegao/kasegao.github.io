@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>academia on Webgao</title>
+    <link>https://kasegao.github.io/categories/academia/</link>
+    <description>Recent content in academia on Webgao</description>
+    <image>
+      <url>https://kasegao.github.io/profile.jpg</url>
+      <link>https://kasegao.github.io/profile.jpg</link>
+      <title>Webgao</title>
+			<width>64</width>
+			<height>64</height>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 30 Sep 2022 15:45:24 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/categories/academia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学振 DC1 内定しました</title>
+      <link>https://kasegao.github.io/posts/2022/09/dc1/</link>
+      <pubDate>Fri, 30 Sep 2022 15:45:24 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/09/dc1/</guid>
+      <description>表題の通りですが、ありがたいことに無事学振 DC1 に内定しました。
+  過去の申請書類をご共有いただいた皆様本当にありがとうございました。 今後も精進してまいります。</description>
+    </item>
+    
+    <item>
+      <title>VR学会</title>
+      <link>https://kasegao.github.io/posts/2022/09/conf_vr/</link>
+      <pubDate>Fri, 16 Sep 2022 10:30:14 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/09/conf_vr/</guid>
+      <description>VR 学会に参加してきました。 オンサイト開催の学会参加は EuroHaptics 2022 以来で２回目でした。
+今回は最終日の 嗅覚・味覚２ セッションで共著の発表がありました。
+表題：空中超音波による舌表面への刺激が味覚に及ぼす影響の調査
+概要：空中超音波により舌を瞬間的に乾燥させた際に味覚感度がどの様に変化するかを調査した。
+味覚の研究は今回が初めてでほとんど知見がなかったこともあり、実験中は色々と大変でした。
+その他、触覚系の研究も多数ありデモ含め非常に面白かったです。 特に下のデモは直接体験できてよかったです。
+ 追跡型投影による人間の視覚特性を利用した運動物体の不可視化と方向・速度操作 皮膚温度変化をゼロに保ちつつ感覚を生じさせる非接触冷覚提示  やはり触覚系は直接体験できると楽しいですね。 次は SI で発表予定なので、また色々と体験できることを楽しみにしています。</description>
+    </item>
+    
+  </channel>
+</rss>
+

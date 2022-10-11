@@ -11,7 +11,35 @@
 			<width>64</width>
 			<height>64</height>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kasegao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Oct 2022 10:45:17 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://kasegao.github.io/categories/blog/</link>
+      <pubDate>Tue, 11 Oct 2022 10:45:17 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academia</title>
+      <link>https://kasegao.github.io/categories/academia/</link>
+      <pubDate>Fri, 30 Sep 2022 15:45:24 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/categories/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://kasegao.github.io/categories/tech/</link>
+      <pubDate>Tue, 27 Sep 2022 11:29:33 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
 
