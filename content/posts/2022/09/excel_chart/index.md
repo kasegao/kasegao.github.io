@@ -2,6 +2,7 @@
 title: "Excel のグラフをいい感じにする tips"
 date: 2022-09-27T11:29:33+09:00
 draft: false
+categories: ["tech"]
 tags: ["excel", "chart", "tips"]
 ---
 

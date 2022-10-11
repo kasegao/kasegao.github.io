@@ -36,10 +36,14 @@ languages:
           name: 業績
           url: fixed/works
           weight: 15
+        - identifier: categories
+          name: カテゴリ
+          url: categories/
+          weight: 20
         - identifier: tags
           name: タグ
           url: tags/
-          weight: 20
+          weight: 25
   en:
     languageName: English
     weight: 2
@@ -57,10 +61,14 @@ languages:
           name: works
           url: fixed/works
           weight: 15
+        - identifier: categories
+          name: categories
+          url: categories/
+          weight: 20
         - identifier: tags
           name: tags
           url: tags/
-          weight: 20
+          weight: 25
 
 params:
   env: production
@@ -68,7 +76,7 @@ params:
   title: "webgao"
   description: "kasegao's website"
   keywords: [Kasega0, kasegao, webgao, かせがお, ウェブがお]
-  author: ["Kasega0", "kasegao"]
+  author: ["kasegao"]
   # author: ["Me", "You"] # multiple authors
   images: ["profile.jpg"]
   DateFormat: "January 2, 2006"
