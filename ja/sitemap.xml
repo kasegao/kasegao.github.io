@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasegao.github.io/categories/blog/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
-  </url><url>
     <loc>https://kasegao.github.io/categories/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,20 +15,14 @@
                 href="https://kasegao.github.io/categories/"
                 />
   </url><url>
-    <loc>https://kasegao.github.io/tags/db%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/posts/2022/10/ipa_db/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/tags/ipa/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+    <loc>https://kasegao.github.io/tags/electronics/</loc>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/posts/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/tags/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -43,8 +34,11 @@
                 href="https://kasegao.github.io/tags/"
                 />
   </url><url>
+    <loc>https://kasegao.github.io/categories/tech/</loc>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
+  </url><url>
     <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-10-13T13:44:38+09:00</lastmod>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +49,21 @@
                 hreflang="ja"
                 href="https://kasegao.github.io/"
                 />
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/10/camera_trigger/</loc>
+    <lastmod>2022-10-17T17:31:22+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/categories/blog/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/db%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/10/ipa_db/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/tags/ipa/</loc>
+    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/categories/academia/</loc>
     <lastmod>2022-10-11T11:09:05+09:00</lastmod>
@@ -75,9 +84,6 @@
     <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/posts/2022/09/excel_chart/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/categories/tech/</loc>
     <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/tags/tips/</loc>

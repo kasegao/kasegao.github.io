@@ -12,7 +12,29 @@
 			<height>64</height>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Oct 2022 10:45:17 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 10:35:29 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>スマホカメラの外部トリガを作成する</title>
+      <link>https://kasegao.github.io/posts/2022/10/camera_trigger/</link>
+      <pubDate>Mon, 17 Oct 2022 10:35:29 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/10/camera_trigger/</guid>
+      <description>最近、研究用にスマホカメラの外部トリガを自作したのでその時の備忘録です。
+原理 スマートフォンのカメラは音量調整信号でシャッターを切れるようになっています。 今回はこれを利用して Android 向けのカメラの外部トリガを作成しました。
+公式のアクセサリ仕様はこちらに掲載されています。
+3.5 mm ヘッドセット: アクセサリ仕様
+上記のドキュメントにある通り、マイク信号線とGNDを240(or 470)オームの抵抗を挟んで導通させれば、音量調整信号が送られるという事になります。
+実装 今回は 3.5mm の 4 極プラグが手元になかったので下のピンチケイヤホンからパーツを拝借しました。
+  3.5mmイヤホン マイク リモコン付き 有線 イヤホン HiFi 低音 ステレオイヤホン 通話可能 音量調整 騒音低減 ホワイト  amazon.co.jp    オリジナルの状態です。
+  音量調整リモコンです。
+  リモコンをバラシてはんだを外します。
+  導線を繋いではんだ付けします。汚いですが赦してください。短絡してなければ大丈夫です。
+※不安であればここで一度導通チェック等行ってください。
+  こんな感じで抵抗を挟んで直列に接続します。
+  18e に半挿ししているジャンパーピンを抜き差しするとシャッターが切れます。
+There should have been a video here but your browser does not seem to support it.</description>
+    </item>
+    
     <item>
       <title>DBスペシャリスト試験を受験しました</title>
       <link>https://kasegao.github.io/posts/2022/10/ipa_db/</link>
