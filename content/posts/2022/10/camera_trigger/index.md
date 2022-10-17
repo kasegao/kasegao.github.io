@@ -1,7 +1,7 @@
 ---
 title: "スマホカメラの外部トリガを作成する"
 date: 2022-10-17T10:35:29+09:00
-draft: true
+draft: false
 categories: ["tech"]
 tags: ["electronics"]
 ---
@@ -41,8 +41,14 @@ tags: ["electronics"]
 
 {{< figure src="images/extend.jpg" width="600" >}}
 
-抵抗を挟んでこんな感じの直列に接続します。
+こんな感じで抵抗を挟んで直列に接続します。
 
 {{< figure src="images/circuit.jpg" width="600" >}}
 
 `18e` に半挿ししているジャンパーピンを抜き差しするとシャッターが切れます。
+
+{{< video mp4="videos/comp.mp4" webm="videos/comp.webm" preload="auto" width="600" >}}
+
+## 実装した感想
+
+楽しい！！

@@ -1,5 +1,4 @@
-docs/
+/resources
 
 # Hugo
 .hugo_build.lock
-
