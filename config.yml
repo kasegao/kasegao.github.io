@@ -73,6 +73,7 @@ languages:
 params:
   env: production
   googleAnalyticsID: G-6S54ZMMLWL
+  amazonJpAffiliateID: "kasega0-22"
   title: "webgao"
   description: "kasegao's website"
   keywords: [Kasega0, kasegao, webgao, かせがお, ウェブがお]

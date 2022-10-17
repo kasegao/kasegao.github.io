@@ -6,6 +6,9 @@
     {{ if .Site.Params.GoogleAnalyticsID }}
     {{ partial "analytics-gtag.html" . }}
     {{ end }}
+    <!-- Custom Style -->
+    {{ $style := resources.Get "sass/amazonAffiliate.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     {{- partial "head.html" . }}
 </head>
