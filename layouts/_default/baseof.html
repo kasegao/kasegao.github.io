@@ -7,8 +7,10 @@
     {{ partial "analytics-gtag.html" . }}
     {{ end }}
     <!-- Custom Style -->
-    {{ $style := resources.Get "sass/amazonAffiliate.scss" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{ $styleAmazonAffiliate := resources.Get "sass/amazonAffiliate.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styleAmazonAffiliate.Permalink }}">
+    {{ $styleVideo := resources.Get "sass/video.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styleVideo.Permalink }}">
 
     {{- partial "head.html" . }}
 </head>
