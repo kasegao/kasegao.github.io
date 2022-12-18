@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>si2022 on Webgao</title>
+    <link>https://kasegao.github.io/tags/si2022/</link>
+    <description>Recent content in si2022 on Webgao</description>
+    <image>
+      <url>https://kasegao.github.io/profile.jpg</url>
+      <link>https://kasegao.github.io/profile.jpg</link>
+      <title>Webgao</title>
+			<width>64</width>
+			<height>64</height>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 18 Dec 2022 12:30:00 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/tags/si2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SICE SI 2022 に参加しました</title>
+      <link>https://kasegao.github.io/posts/2022/12/conf_si/</link>
+      <pubDate>Sun, 18 Dec 2022 12:30:00 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/12/conf_si/</guid>
+      <description>SICE SI 2022 に参加してきました。 国内での対面発表は今回が初めてだったので新鮮でした。
+今回は主著１本と共著１本の発表でした。
+  これで今年のイベントは全て終了です。
+まだ修論を1文字も書いていないので年末年始でシコシコと書いていきます。</description>
+    </item>
+    
+  </channel>
+</rss>
+
