@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kasegao.github.io/categories/academia/</loc>
-    <lastmod>2022-12-18T12:42:38+09:00</lastmod>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/categories/</loc>
-    <lastmod>2022-12-18T12:42:38+09:00</lastmod>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +18,24 @@
                 href="https://kasegao.github.io/categories/"
                 />
   </url><url>
+    <loc>https://kasegao.github.io/posts/2022/12/latex_template_ipc_master_thesis/</loc>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+  </url><url>
     <loc>https://kasegao.github.io/posts/</loc>
-    <lastmod>2022-12-18T12:42:38+09:00</lastmod>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/</loc>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kasegao.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://kasegao.github.io/"
+                />
   </url><url>
     <loc>https://kasegao.github.io/tags/si2022/</loc>
     <lastmod>2022-12-18T12:42:38+09:00</lastmod>
@@ -38,19 +54,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://kasegao.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-12-18T12:42:38+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://kasegao.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://kasegao.github.io/"
                 />
   </url><url>
     <loc>https://kasegao.github.io/categories/business/</loc>

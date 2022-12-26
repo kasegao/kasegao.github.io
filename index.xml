@@ -12,7 +12,17 @@
 			<height>64</height>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 12:30:00 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 14:47:30 +0900</lastBuildDate><atom:link href="https://kasegao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPC 修論用 LaTeX ひな形を作成</title>
+      <link>https://kasegao.github.io/posts/2022/12/latex_template_ipc_master_thesis/</link>
+      <pubDate>Mon, 26 Dec 2022 14:47:30 +0900</pubDate>
+      
+      <guid>https://kasegao.github.io/posts/2022/12/latex_template_ipc_master_thesis/</guid>
+      <description>本家の LaTeX テンプレートがどうにも微妙だった（ latexmkrc がない、文字コードが Shift-JIS 等）ので、使いやすいようにちょっと弄ったものを GitHub に上げました。
+https://github.com/kasegao/latex-template-ipc-master-thesis</description>
+    </item>
+    
     <item>
       <title>SICE SI 2022 に参加しました</title>
       <link>https://kasegao.github.io/posts/2022/12/conf_si/</link>
