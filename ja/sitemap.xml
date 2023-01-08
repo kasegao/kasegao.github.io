@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kasegao.github.io/categories/academia/</loc>
-    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+    <loc>https://kasegao.github.io/categories/blog/</loc>
+    <lastmod>2023-01-08T11:13:28+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/categories/</loc>
-    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+    <lastmod>2023-01-08T11:13:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,14 +18,11 @@
                 href="https://kasegao.github.io/categories/"
                 />
   </url><url>
-    <loc>https://kasegao.github.io/posts/2022/12/latex_template_ipc_master_thesis/</loc>
-    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
-  </url><url>
     <loc>https://kasegao.github.io/posts/</loc>
-    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+    <lastmod>2023-01-08T11:13:28+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/</loc>
-    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+    <lastmod>2023-01-08T11:13:28+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -36,6 +33,15 @@
                 hreflang="ja"
                 href="https://kasegao.github.io/"
                 />
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2023/01/trunks/</loc>
+    <lastmod>2023-01-08T11:13:28+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/categories/academia/</loc>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2022/12/latex_template_ipc_master_thesis/</loc>
+    <lastmod>2022-12-26T14:53:37+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/tags/si2022/</loc>
     <lastmod>2022-12-18T12:42:38+09:00</lastmod>
@@ -70,9 +76,6 @@
   </url><url>
     <loc>https://kasegao.github.io/posts/2022/10/camera_trigger/</loc>
     <lastmod>2022-10-17T17:31:22+09:00</lastmod>
-  </url><url>
-    <loc>https://kasegao.github.io/categories/blog/</loc>
-    <lastmod>2022-10-11T11:09:05+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/tags/db%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%83%88/</loc>
     <lastmod>2022-10-11T11:09:05+09:00</lastmod>
