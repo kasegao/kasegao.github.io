@@ -12,8 +12,8 @@ I'm interested in haptics and programming.
 ## Affiliation
 
 [Shinoda & Makino Group](https://hapislab.org/),  
-Department of Complexity Science and Engineering,  
-Graduate School of Frontier Sciences,  
+Department of Information Physics & Computing,  
+Graduate School of Information Science and Technology,  
 The University of Tokyo
 
 ## Educational History
