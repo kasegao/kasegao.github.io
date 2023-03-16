@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kasegao.github.io/categories/academia/</loc>
-    <lastmod>2023-02-17T18:49:11+09:00</lastmod>
+    <lastmod>2023-03-16T14:30:03+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/categories/</loc>
-    <lastmod>2023-02-17T18:49:11+09:00</lastmod>
+    <lastmod>2023-03-16T14:30:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,10 +19,10 @@
                 />
   </url><url>
     <loc>https://kasegao.github.io/posts/</loc>
-    <lastmod>2023-02-17T18:49:11+09:00</lastmod>
+    <lastmod>2023-03-16T14:30:03+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/</loc>
-    <lastmod>2023-03-15T20:57:37+09:00</lastmod>
+    <lastmod>2023-03-16T14:30:03+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,6 +33,9 @@
                 hreflang="ja"
                 href="https://kasegao.github.io/"
                 />
+  </url><url>
+    <loc>https://kasegao.github.io/posts/2023/03/money/</loc>
+    <lastmod>2023-03-16T14:30:03+09:00</lastmod>
   </url><url>
     <loc>https://kasegao.github.io/posts/2023/02/master/</loc>
     <lastmod>2023-02-17T18:49:11+09:00</lastmod>
