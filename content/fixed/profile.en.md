@@ -29,7 +29,7 @@ The University of Tokyo
 
 |                       |                                                                                                                                                                                                                   |
 | :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Apr. 2023 -           | [Grant-in-Aid for JSPS Research Fellows](https://www.jsps.go.jp/english/e-grants/) |
+| Apr. 2023 -           | [Research Fellow of Japan Society for the Promotion of Science](https://www.jsps.go.jp/english/) |
 | Oct. 2021 - Mar. 2023 | Research Assistant (RA) at ["World-leading Innovative Graduate Study Program in Proactive Environmental Studies" (WINGS-PES)](https://wings-pes.edu.k.u-tokyo.ac.jp/home-english), The University of Tokyo, Japan |
 | Apr. 2021 - Aug. 2022 | Teaching Assistant (TA) at Department of Mathematical Engineering and Information Physics, School of Engineering, The University of Tokyo, Japan                                                                  |
 | Feb. 2020 - May. 2020 | Assistant Technical Staff at Naruse Laboratory, Information Technology Center, The University of Tokyo, Japan                                                                                                     |
